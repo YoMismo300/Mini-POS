@@ -1,0 +1,7 @@
+D:\7°\Electiva 1\Parcial_1\bin\Debug\Parcial_1.exe.config
+D:\7°\Electiva 1\Parcial_1\bin\Debug\Parcial_1.exe
+D:\7°\Electiva 1\Parcial_1\bin\Debug\Parcial_1.pdb
+D:\7°\Electiva 1\Parcial_1\obj\Debug\Parcial_1.csproj.AssemblyReference.cache
+D:\7°\Electiva 1\Parcial_1\obj\Debug\Parcial_1.csproj.CoreCompileInputs.cache
+D:\7°\Electiva 1\Parcial_1\obj\Debug\Parcial_1.exe
+D:\7°\Electiva 1\Parcial_1\obj\Debug\Parcial_1.pdb
