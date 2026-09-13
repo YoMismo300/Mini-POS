@@ -47,8 +47,8 @@ Una vez clonado el repositorio, se deben seguir las instrucciones indicadas en e
 Ejemplo:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
-cd NOMBRE_DEL_PROYECTO
+git clone (https://github.com/YoMismo300/Mini-POS)
+cd Mini-POS
 dotnet restore
 dotnet build
 dotnet run
